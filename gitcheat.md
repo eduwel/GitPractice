@@ -33,3 +33,4 @@ push = moves to online repo
 To "stage" type git add gitcheat.md
 To "commit" type git commit -m "first commit" (-m = message about version)
 
+Latest version
