@@ -11,7 +11,7 @@ Git is local – then can share
 
 2) GitHub .. hosting site for various repositories. You can pool gits on hithub.
 – make copies, edit, propose changes
-– can also make copies of others, edit & propose changes
+– can also make copies of others, edit & propose changes;
 = COLLABORATION
 
 3) MARKDOWN
