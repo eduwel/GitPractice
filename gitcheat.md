@@ -20,7 +20,7 @@ Styling or formatting text – light-weight style for docs; docs written in mark
 Initializing git -- i.e. pay attention to selected folder
 textfile.md = "md" = markdown; 
 
-accessin remote: git remote add origin https://github.com/eduwel/GitPractice
+accessing remote: git remote add origin https://github.com/eduwel/GitPractice
 
 to confirm: git remote -v (will see fetch & push versions; intimates mutual awareness)
 
